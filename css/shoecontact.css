@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+h1{
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: darkviolet;
+    font-style: italic;
+}
+body{
+    background-color:lightyellow ;
+}
+h2{
+    text-align: center;
+    color:orangered;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+}
+h4{
+    font-size: 22px;
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    font-size: 20px;
+}
+.footer a{
+    color:rgb(138, 133, 133);
+    text-decoration: none;
+    text-align: center;
+    justify-content: space-around;
+}
